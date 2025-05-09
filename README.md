@@ -1,10 +1,4 @@
-# webdev-group
-Donations
-FPO
-YES
-YRC
-Contact Us
-
+# Webdev Group Project
 ## Kaiden Matuskiewicz
 - Blog.html
 - BoardOfDirectors.html
